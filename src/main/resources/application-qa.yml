@@ -1,0 +1,4 @@
+app:
+  username: ymlQAusername
+  password: tmlQAPass
+  jdbcUrl: ymlQAjdbcurl

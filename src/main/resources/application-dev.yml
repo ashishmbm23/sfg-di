@@ -1,0 +1,4 @@
+app:
+  username: ymlDevusername
+  password: tmlDEvPass
+  jdbcUrl: ymlDevjdbcurl
